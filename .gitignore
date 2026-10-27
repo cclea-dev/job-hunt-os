@@ -1,0 +1,10 @@
+# Personal data: never commit
+profile/
+*.docx
+*.pdf
+*.csv
+.env
+.env.*
+
+# System files
+.DS_Store
